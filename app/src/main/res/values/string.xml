@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="isi_spinner">
+        <item>bs10089601</item>
+        <item>bs10089602</item>
+        <item>bs10089603</item>
+        <item>ss25029501</item>
+        <item>ss25029502</item>
+        <item>ss25029503</item>
+        <item>bs10089601-anonymous</item>
+        <item>bs10089602-anonymous</item>
+        <item>bs10089603-anonymous</item>
+        <item>ss25029501-anonymous</item>
+        <item>ss25029502-anonymous</item>
+        <item>ss25029503-anonymous</item>
+    </string-array>
+</resources>
